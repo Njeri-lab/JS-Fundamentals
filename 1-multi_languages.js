@@ -4,4 +4,6 @@ let lines = {
     line_three: 'JavaScript is amazing',
 };
 
-console.log(lines);
+console.log(lines.line_one);
+console.log(lines.line_two);
+console.log(lines.line_three);
