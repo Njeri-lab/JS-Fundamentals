@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../GitWork"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JS, HTML, CSS",
+		"liveServer.settings.port": 5501
+	}
+}
